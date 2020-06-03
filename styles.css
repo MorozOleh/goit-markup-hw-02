@@ -1,0 +1,51 @@
+.logo {
+text-decoration:none ;
+/* font-size: 26px;
+font-weight: bold; */
+}
+
+.logo-blue {
+color: #2196F3;
+font-size: 26px;
+font-weight: bold;
+
+}
+.logo-black {
+  color: #000000;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+
+.portfolio{
+  color: #000000;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.contacts{
+  color: #000000;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.ul-link {
+  list-style: none;
+}
+
+.studio {
+  color: #2196F3;
+  font-size: 14px;
+  text-decoration: none;
+}
+.studio:hover,
+.studio:focus {
+  color: aquamarine;
+}
+
+.portfolio:hover {
+  color: aquamarine;
+}
+.contacts:hover {
+  color: aquamarine;
+}
