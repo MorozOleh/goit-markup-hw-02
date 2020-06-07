@@ -18,10 +18,12 @@ line-height: 1.19;
 font-style: normal ;
 }
 
-
-.logo-black {
+.logo > span{
 color:var(--title-text-color);
 }
+/* .logo-black {
+color:var(--title-text-color);
+} */
 
 /* site-nav */
 
